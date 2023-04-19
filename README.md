@@ -1,3 +1,3 @@
 # GitClass
-
+CONFLICT!!!!!!!!!!!!!!!
 New ReADMYfILE
